@@ -1,0 +1,11 @@
+
+# Play Data
+
+These samples are from the ape woodmouse library. The sequences were taken, cleaned, aligned, a tree was build, sequences were translated (poorly, I'll add - see stop codons), and a fake metadata table was built. The stuff you'll want to use (for now)...
+
+* output/metadata.csv
+* output/aligned.fasta
+* output/ftree.tre
+
+
+Later, we can play with adding multiple alignments
